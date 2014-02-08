@@ -1,0 +1,23 @@
+{
+    "name": "closest-num"
+  , "version": "0.0.1"
+  , "description": "Find the closest number in an array"
+  , "main": "closest-num.js"
+  , "repository": {
+        "type": "git"
+      , "url": "git://github.com/abpetkov/closest-num.git"
+    }
+  , "author": "Alexander Petkov (https://github.com/abpetkov)"
+  , "license": "MIT"
+  , "bugs": {
+      "url": "https://github.com/abpetkov/closest-num/issues"
+    }
+  , "devDependencies": {
+        "grunt": "~0.4.2"
+      , "grunt-contrib-clean": "~0.4.0"
+      , "grunt-contrib-watch": "~0.5.3"
+      , "grunt-contrib-uglify": "~0.1.2"
+      , "grunt-component-build": "~0.4.1"
+      , "matchdep": "~0.3.0"
+    }
+}

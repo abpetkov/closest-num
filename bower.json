@@ -1,0 +1,23 @@
+{
+    "name": "closes-num"
+  , "main": "dist/closest-num.js"
+  , "version": "0.0.1"
+  , "description": "Find the closest number in an array"
+  , "keywords": [
+        "closest"
+      , "number"
+      , "array"
+    ]
+  , "authors": [
+      "Alexander Petkov (https://github.com/abpetkov)"
+    ]
+  , "homepage": "https://abpetkov.github.io/closest-num"
+  , "license": "MIT"
+  , "ignore": [
+        "**/.*"
+      , "build"
+      , "components"
+      , "node_modules"
+      , "bower_components"
+    ]
+}
