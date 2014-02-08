@@ -7,7 +7,7 @@
         "type": "git"
       , "url": "git://github.com/abpetkov/closest-num.git"
     }
-  , "author": "Alexander Petkov (https://github.com/abpetkov)"
+  , "author": "Alexander Petkov <abpetkov@gmail.com> (https://github.com/abpetkov)"
   , "license": "MIT"
   , "bugs": {
       "url": "https://github.com/abpetkov/closest-num/issues"
